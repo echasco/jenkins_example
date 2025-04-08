@@ -51,7 +51,6 @@ El pipeline configurado en Jenkins incluye las siguientes etapas:
   - Causa: Jenkins no tenía Node.js configurado en el agente
   - :x: Jenkins usaba `bat` en lugar de `sh` (comando para Windows, no Linux)
 
-    [Captura ERROR ](/images/errores.md)
 ---
  5. Reporte y retroalimentación
 
